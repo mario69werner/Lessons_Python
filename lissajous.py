@@ -11,8 +11,7 @@ pg.init()
 screen = pg.display.set_mode([auflösung, auflösung])
 matrix = [[0]*spalten for i in range(spalten)]
 farbe = pg.Color(0)
-# 123
-#456
+
 
 
 @dataclass
